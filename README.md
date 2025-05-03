@@ -9,7 +9,7 @@ A free edgenuity script I made for Quizes, Tests, and Exams. Includes auto delay
 Welcome to **Exodus**! This script is designed to automate quizzes, tests, and exams on Edgenuity. It features automatic answering, auto-advancement with customizable delays, and auto-submit functionality. While this is still in early beta, the script is a free demo to give you a taste of what’s to come.
 
 
-https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe
+[https://github.com/user-attachments/assets/d3c50afe-b01a-4e80-af88-c7289cdfafbe](https://cdn.discordapp.com/attachments/1359307584900694177/1368042752046137374/Screenshot_2025-05-02_205318.png?ex=6816c899&is=68157719&hm=96e4b998a36c4910047da7b99d38a9e7be2474bcc90dfb181b96ceec479742ed&)
 
 
 ### Key Features:
